@@ -7,3 +7,9 @@ task :deploy do
 
   FileUtils.ln_s File.dirname(__FILE__), "#{ENV['HOME']}/.vim/bundle"
 end
+
+desc "update submodules"
+task :update do
+  %x(git submodule init)
+  %x(git submodule update)
+end
