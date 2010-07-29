@@ -25,3 +25,6 @@
 [submodule "nerdtree"]
 	path = nerdtree
 	url = git://github.com/scrooloose/nerdtree.git
+[submodule "supertab"]
+	path = supertab
+	url = git://github.com/ervandew/supertab.git
