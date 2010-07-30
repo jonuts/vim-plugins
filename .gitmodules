@@ -28,3 +28,6 @@
 [submodule "supertab"]
 	path = supertab
 	url = git://github.com/ervandew/supertab.git
+[submodule "nerdcommenter"]
+	path = nerdcommenter
+	url = git://github.com/scrooloose/nerdcommenter
