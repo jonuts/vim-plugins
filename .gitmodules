@@ -31,3 +31,6 @@
 [submodule "nerdcommenter"]
 	path = nerdcommenter
 	url = git://github.com/scrooloose/nerdcommenter
+[submodule "vim-matchit"]
+	path = vim-matchit
+	url = git://github.com/edsono/vim-matchit
