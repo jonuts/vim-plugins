@@ -34,3 +34,6 @@
 [submodule "vim-matchit"]
 	path = vim-matchit
 	url = git://github.com/edsono/vim-matchit
+[submodule "lusty"]
+	path = lusty
+	url = git://github.com/sjbach/lusty
