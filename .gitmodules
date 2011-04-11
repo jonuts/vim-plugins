@@ -43,3 +43,9 @@
 [submodule "vim-rspec"]
 	path = vim-rspec
 	url = http://github.com/jonuts/vim-rspec.git
+[submodule "taskpaper.vim"]
+	path = taskpaper.vim
+	url = git://github.com/davidoc/taskpaper.vim
+[submodule "Zenburn"]
+	path = Zenburn
+	url = git://github.com/vim-scripts/Zenburn
