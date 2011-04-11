@@ -49,3 +49,6 @@
 [submodule "Zenburn"]
 	path = Zenburn
 	url = git://github.com/vim-scripts/Zenburn
+[submodule "wikipedia.vim"]
+	path = wikipedia.vim
+	url = git://github.com/vim-scripts/wikipedia.vim
