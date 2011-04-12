@@ -52,3 +52,12 @@
 [submodule "wikipedia.vim"]
 	path = wikipedia.vim
 	url = git://github.com/vim-scripts/wikipedia.vim
+[submodule "jsbeautify"]
+	path = jsbeautify
+	url = git://github.com/vim-scripts/jsbeautify
+[submodule "simple-javascript-indenter"]
+	path = simple-javascript-indenter
+	url = git://github.com/jiangmiao/simple-javascript-indenter
+[submodule "molly.vim"]
+	path = molly.vim
+	url = git://github.com/vim-scripts/molly.vim
