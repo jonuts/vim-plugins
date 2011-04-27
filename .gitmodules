@@ -61,3 +61,6 @@
 [submodule "molly.vim"]
 	path = molly.vim
 	url = git://github.com/vim-scripts/molly.vim
+[submodule "vim-ruby-sinatra"]
+	path = vim-ruby-sinatra
+	url = git://github.com/hallison/vim-ruby-sinatra

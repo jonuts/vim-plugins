@@ -13,3 +13,14 @@ task :update do
   %x(git submodule init)
   %x(git submodule update)
 end
+
+desc "pull scripts"
+task :pull do
+  scripts = File.read(".gitmodules").scan(/path = (.*)/)
+  scripts.each do |script|
+    puts "Updating #{script}"
+    #run "cd #{script}; git reset --hard HEAD ; git pull --rebase ; cd .."
+    cd script.first
+    cd '..'
+  end
+end
