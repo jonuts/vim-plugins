@@ -64,3 +64,6 @@
 [submodule "vim-ruby-sinatra"]
 	path = vim-ruby-sinatra
 	url = git://github.com/hallison/vim-ruby-sinatra
+[submodule "Decho"]
+	path = Decho
+	url = git://github.com/vim-scripts/Decho
