@@ -67,3 +67,6 @@
 [submodule "Decho"]
 	path = Decho
 	url = git://github.com/vim-scripts/Decho
+[submodule "gitv"]
+	path = gitv
+	url = git://github.com/gregsexton/gitv
