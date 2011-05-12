@@ -10,17 +10,13 @@ end
 
 desc "update submodules"
 task :update do
-  %x(git submodule init)
-  %x(git submodule update)
+  sh "git submodule init"
+  sh "git submodule update"
 end
 
 desc "pull scripts"
 task :pull do
-  scripts = File.read(".gitmodules").scan(/path = (.*)/)
-  scripts.each do |script|
-    puts "Updating #{script}"
-    #run "cd #{script}; git reset --hard HEAD ; git pull --rebase ; cd .."
-    cd script.first
-    cd '..'
-  end
+  sh "git submodule foreach git pull --rebase"
+  sh "git submodule foreach git submodule init"
+  sh "git submodule foreach git submodule update"
 end
