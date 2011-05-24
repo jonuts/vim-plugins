@@ -60,7 +60,7 @@
 	url = git://github.com/jiangmiao/simple-javascript-indenter
 [submodule "molly.vim"]
 	path = molly.vim
-	url = git://github.com/vim-scripts/molly.vim
+	url = git://github.com/jonuts/molly.vim
 [submodule "vim-ruby-sinatra"]
 	path = vim-ruby-sinatra
 	url = git://github.com/hallison/vim-ruby-sinatra
