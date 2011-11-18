@@ -100,3 +100,12 @@
 [submodule "vim-pad"]
 	path = vim-pad
 	url = https://github.com/fmoralesc/vim-pad
+[submodule "tagbar"]
+	path = tagbar
+	url = https://github.com/majutsushi/tagbar
+[submodule "rubycomplete.vim"]
+	path = rubycomplete.vim
+	url = https://github.com/vim-scripts/rubycomplete.vim
+[submodule "vim-bundler"]
+	path = vim-bundler
+	url = https://github.com/tpope/vim-bundler
