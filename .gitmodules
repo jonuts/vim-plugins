@@ -118,3 +118,6 @@
 [submodule "tabman.vim"]
 	path = tabman.vim
 	url = https://github.com/kien/tabman.vim
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim
