@@ -121,3 +121,6 @@
 [submodule "ctrlp.vim"]
 	path = ctrlp.vim
 	url = https://github.com/kien/ctrlp.vim
+[submodule "molokai"]
+	path = molokai
+	url = https://github.com/tomasr/molokai
