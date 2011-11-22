@@ -124,3 +124,9 @@
 [submodule "molokai"]
 	path = molokai
 	url = https://github.com/tomasr/molokai
+[submodule "vim-statline"]
+	path = vim-statline
+	url = https://github.com/millermedeiros/vim-statline
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/scrooloose/syntastic
