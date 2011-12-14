@@ -127,3 +127,6 @@
 [submodule "syntastic"]
 	path = syntastic
 	url = https://github.com/scrooloose/syntastic
+[submodule "Conque-Shell"]
+	path = Conque-Shell
+	url = https://github.com/lrvick/Conque-Shell
