@@ -130,3 +130,6 @@
 [submodule "Conque-Shell"]
 	path = Conque-Shell
 	url = https://github.com/lrvick/Conque-Shell
+[submodule "PHP-Indenting-for-VIm"]
+	path = PHP-Indenting-for-VIm
+	url = https://github.com/2072/PHP-Indenting-for-VIm
