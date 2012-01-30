@@ -70,9 +70,6 @@
 [submodule "gitv"]
 	path = gitv
 	url = git://github.com/gregsexton/gitv
-[submodule "snipmate.vim"]
-	path = snipmate.vim
-	url = git://github.com/msanders/snipmate.vim
 [submodule "vim-git"]
 	path = vim-git
 	url = git://github.com/tpope/vim-git
