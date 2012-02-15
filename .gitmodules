@@ -42,7 +42,7 @@
 	url = git://github.com/Takazudo/outline.vim
 [submodule "vim-rspec"]
 	path = vim-rspec
-	url = http://github.com/jonuts/vim-rspec.git
+	url = https://github.com/skwp/vim-rspec
 [submodule "taskpaper.vim"]
 	path = taskpaper.vim
 	url = git://github.com/davidoc/taskpaper.vim
@@ -145,3 +145,6 @@
 [submodule "snipmate-snippets"]
 	path = snipmate-snippets
 	url = https://github.com/honza/snipmate-snippets
+[submodule "vim-ruby-conque"]
+	path = vim-ruby-conque
+	url = https://github.com/skwp/vim-ruby-conque
