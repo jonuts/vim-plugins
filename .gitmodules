@@ -148,3 +148,6 @@
 [submodule "vim-ruby-conque"]
 	path = vim-ruby-conque
 	url = https://github.com/skwp/vim-ruby-conque
+[submodule "vim-jade"]
+	path = vim-jade
+	url = https://github.com/digitaltoad/vim-jade
