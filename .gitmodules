@@ -94,9 +94,6 @@
 [submodule "ruby-matchit"]
 	path = ruby-matchit
 	url = https://github.com/vim-scripts/ruby-matchit.git
-[submodule "vim-pad"]
-	path = vim-pad
-	url = https://github.com/fmoralesc/vim-pad
 [submodule "tagbar"]
 	path = tagbar
 	url = https://github.com/majutsushi/tagbar
