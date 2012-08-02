@@ -154,3 +154,6 @@
 [submodule "bufexplorer.zip"]
 	path = bufexplorer.zip
 	url = https://github.com/vim-scripts/bufexplorer.zip
+[submodule "numbers.vim"]
+	path = numbers.vim
+	url = https://github.com/myusuf3/numbers.vim/
