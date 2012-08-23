@@ -157,3 +157,6 @@
 [submodule "numbers.vim"]
 	path = numbers.vim
 	url = https://github.com/myusuf3/numbers.vim/
+[submodule "golden-ratio"]
+	path = golden-ratio
+	url = https://github.com/roman/golden-ratio
