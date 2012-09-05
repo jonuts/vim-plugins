@@ -160,3 +160,6 @@
 [submodule "golden-ratio"]
 	path = golden-ratio
 	url = https://github.com/roman/golden-ratio
+[submodule "vim-markdown"]
+	path = vim-markdown
+	url = https://github.com/plasticboy/vim-markdown
