@@ -90,7 +90,7 @@
 	url = https://github.com/altercation/vim-colors-solarized
 [submodule "vim-slim"]
 	path = vim-slim
-	url = git://github.com/xeeew/vim-slim
+	url = git://github.com/bbommarito/vim-slim
 [submodule "ruby-matchit"]
 	path = ruby-matchit
 	url = https://github.com/vim-scripts/ruby-matchit.git
